@@ -27,3 +27,7 @@ Bitcoin     |  BTC  |    1 | 0.00000546  |
 Litcoin     |  LTC  |   10 | 0.00005460  |
 Namecoin    |  NMC  |  100 | 0.00054600  |
 Ferritecoin |  FEC  | 1000 | 0.00010000  |
+
+## circulating
+`Old script - Imported from koh-gt/coin-supply`<br>
+A Powershell script that calculates the total coin supply in circulation given the blockchain height.
